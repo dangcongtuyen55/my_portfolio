@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1a7f257.css",
+    "main.js": "/static/js/main.526ca4a2.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/me.png": "/static/media/me.9ba02343c67962ce1f56.png",
+    "static/media/Project-Ecommerce.jpg": "/static/media/Project-Ecommerce.eacd48b0862b76c998b1.jpg",
+    "static/media/logo.png": "/static/media/logo.df2caa4d796888381095.png",
+    "static/media/Node.png": "/static/media/Node.5c75bc989ea437317001.png",
+    "static/media/js.png": "/static/media/js.7208c9477dfcb917e112.png",
+    "static/media/react.png": "/static/media/react.23f6ef49fda4ffb17fc9.png",
+    "static/media/css.png": "/static/media/css.a8f30ad5784951950b62.png",
+    "static/media/github.png": "/static/media/github.eb6c9828688644836546.png",
+    "static/media/mongo.png": "/static/media/mongo.bbd16faa63f1c65f9a32.png",
+    "static/media/html.png": "/static/media/html.de5801675fc0a4a8c352.png",
+    "index.html": "/index.html",
+    "main.a1a7f257.css.map": "/static/css/main.a1a7f257.css.map",
+    "main.526ca4a2.js.map": "/static/js/main.526ca4a2.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a7f257.css",
+    "static/js/main.526ca4a2.js"
+  ]
+}
