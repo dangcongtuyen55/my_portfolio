@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectEcommerce from "../../Assets/Images/Project-Ecommerce.jpg";
-import "../Project/index.scss";
+import "../Project/index.css";
 
 export const Project = () => {
   return (
