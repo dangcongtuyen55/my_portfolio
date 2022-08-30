@@ -10,7 +10,7 @@ import Reactjs from "../../Assets/Images/react.png";
 import Github from "../../Assets/Images/github.png";
 import Me from "../../Assets/Images/me.png";
 import ProjectEcommerce from "../../Assets/Images/Project-Ecommerce.jpg";
-import "../../index.scss";
+import "../../index.css";
 
 export const Main = () => {
   return (
